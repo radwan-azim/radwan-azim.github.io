@@ -1,0 +1,9 @@
+---
+title: "Radwan Azim"
+format: html
+editor: visual
+---
+
+I am a student at the University of Pennsylvania studying Philosophy, Politics, and Economics. I'm interested in Public Policy and Data Science.
+
+
