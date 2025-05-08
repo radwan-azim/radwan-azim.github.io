@@ -8,7 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: Final Project
+        href: psci3200/final-project.qmd
 
 format:
   html:
