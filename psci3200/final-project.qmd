@@ -259,7 +259,7 @@ models <- list(
   "With Controls" = results_control
 )
 
-# Updated modelsummary call with intercept
+# modelsummary
 modelsummary(
   models,
   output   = "gt",
