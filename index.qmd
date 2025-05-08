@@ -5,3 +5,5 @@ editor: visual
 ---
 
 I am a student at the University of Pennsylvania studying Philosophy, Politics, and Economics. I'm interested in Public Policy and Data Science.
+
+![Radwan Azim](images/radwan-azim.JPG){width="300px"}
