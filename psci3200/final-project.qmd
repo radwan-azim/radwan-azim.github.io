@@ -633,7 +633,7 @@ ggplot(avg_petty, aes(x = oda, y = mean_fit,
 
 ```
 
-## **Discussion and Policy Implications**
+## Discussion and Policy Implications
 
 This analysis offers clear evidence that the effectiveness of foreign aid in reducing corruption is strongly conditioned by a country's level of democracy. Specifically, the analysis shows that foreign aid is associated with increased corruption in autocratic countries but reduced corruption in democratic ones, supporting my initial hypothesis. The results are statistically significant and hold across different levels of corruption, including grand and petty corruption. The interaction between foreign aid and democracy is statistically significant and substantively meaningful, suggesting that institutional quality plays an important role in shaping the outcomes of aid.
 
